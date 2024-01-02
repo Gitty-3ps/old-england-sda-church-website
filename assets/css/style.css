@@ -57,6 +57,10 @@ img {
     color: var(--c-brand);
 }
 
+.navbar-nav .nav-item .nav-link {
+    white-space: nowrap;
+}
+
 /* BTN */
 .btn {
     font-weight: 600;
