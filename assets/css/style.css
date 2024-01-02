@@ -83,7 +83,12 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(10, 0, 10, 0.438)), url(../images/hero-1.jpg);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(10, 0, 10, 0.438)), url(../images/hero-3.png);
     background-position: center;
     background-size: cover;
+}
+
+iframe{
+    height: 300px;
+    max-width: 100%;
 }
